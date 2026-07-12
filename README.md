@@ -32,3 +32,10 @@ Baylance is an intelligent system that predicts MBTI personality types using Art
 - Multi-language support
 - Explainable AI (XAI)
 - Integration with project management platforms
+
+- 
+## 🎥 Project Demo Video
+
+Watch the system demonstration here:
+
+[Baylance Demo Video](https://drive.google.com/file/d/1IQMyOoSkiMqj4sUahppPN5JL9lxBs4aQ/view?usp=drivesdk)
